@@ -118,7 +118,7 @@ What is the corresponding data in ***sortedMap*** after running the given code?
 
 ```java
         Stack<Integer> test1 = new Stack<Integer>();
-        test2.push(-1);
+        test1.push(-1);
         tests.add(test1);
         Stack<Integer> test2 = new Stack<Integer>();
         test2.push(0);
