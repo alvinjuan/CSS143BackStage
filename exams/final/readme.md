@@ -257,6 +257,10 @@ public abstract class Animal {
         this.gender = gender;
         this.age = age;
     }
+    
+    public String getName() {
+        return name;
+    }
 }
 
 public class Cat extends Animal {
